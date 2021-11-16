@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Boku&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* primary font  */
+.font-primary {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* logo font  */
+.font-logo {
+  font-family: 'Yuji Boku', serif;
+}
+
+/* Hero Section  */
+.hero-banner {
+  background-image: url('https://cdn.shopify.com/s/files/1/0039/3740/2989/files/Slider-2_f7becb67-5722-4f24-810d-d8ad5fa7483e.jpg?v=1559368812');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 700px;
+}
